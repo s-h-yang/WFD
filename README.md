@@ -1,6 +1,6 @@
 # Weighted Flow Diffusion
 
-Code to reproduce the empirical results in our paper [Weighted flow diffusion for local graph clustering with node attributes: an algorithm and statistical guarantees](https://arxiv.org/abs/2301.13187).
+Code to reproduce the empirical results in our paper [Weighted Flow Diffusion for Local Graph Clustering with Node Attributes: an Algorithm and Statistical Guarantees](https://arxiv.org/abs/2301.13187).
 
 - The notebook `synthetic.ipynb` reproduces Figure 1 and Figure 2 in the paper.
 - To reproduce Tables 1, 3, 5 in the paper, run Julia script `experiment-{dataset}.jl`.
